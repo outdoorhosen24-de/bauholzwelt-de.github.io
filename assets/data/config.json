@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "bauholzwelt.de",
+    "hostname": "https://www.bauholzwelt.de/",
+    "email": "bauholzwelt.desurrealnetworks.io",
+    "organization": "bauholzwelt.de",
+    "logoText": "Bauholzwelt.de",
+    "title": "Bauholz",
+    "subline": "Der Online Shop f\u00fcr Bauholz",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "2002442",
+        "4731014",
+        "4731022",
+        "6459440",
+        "3154051",
+        "6055933"
+    ],
+    "winnerProducts": [
+        "4918348",
+        "2273050",
+        "4341178"
+    ],
+    "featuredCategories": [
+        "Verlegeplatten",
+        "Zierprofile",
+        "Profilholz",
+        "Hobelware",
+        "Profilholz",
+        "Verlegeplatten"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Bauholz",
-        "featureText": "Your featured text goes here",
+        "featureText": "Das Bauholz-Shop ist ein Online-Shop, der auf Bauholz spezialisiert ist. Sie k\u00f6nnen verschiedene Arten von Bauholz finden, wie zum Beispiel: Kiefer, Fichte, Tanne, Douglasie, L\u00e4rche, Eiche, Buche, Birke, Nussbaum, Kirsche, Walnuss, etc.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Bauholzshop: Alles f\u00fcr Ihr Bauvorhaben!",
+            "metaDescription": "Bauholzshop - alles f\u00fcr Ihr Bauvorhaben! Holz, Bretter, Bohlen, Dielen und mehr in bester Qualit\u00e4t.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Bauholz: Ein n\u00fctzliches Material f\u00fcr den Bau",
+                    "text": "Bauholz ist das Holz, das zum Bauen von H\u00e4usern und anderen Geb\u00e4uden verwendet wird. Es ist sehr stark und haltbar und kann in verschiedenen Gr\u00f6\u00dfen und Formen geschnitten werden. Bauholz ist in der Regel aus Nadelh\u00f6lzern wie Fichte, Kiefer oder Tanne gefertigt.\n\nBauholz wird seit Jahrhunderten zum Bauen von H\u00e4usern und anderen Geb\u00e4uden verwendet. Es ist ein sehr beliebtes Material, weil es sehr stark und haltbar ist. Bauholz kann in verschiedenen Gr\u00f6\u00dfen und Formen geschnitten werden und ist daher sehr vielseitig einsetzbar.\n\nBauholz ist in der Regel aus Nadelh\u00f6lzern wie Fichte, Kiefer oder Tanne gefertigt. Diese H\u00f6lzer sind sehr widerstandsf\u00e4hig und k\u00f6nnen problemlos im Freien eingesetzt werden. Bauholz ist auch sehr langlebig und kann mehrere Jahrzehnte halten.\n\nBauholz ist ein sehr beliebtes Material f\u00fcr den Hausbau, weil es sehr vielseitig einsetzbar ist und eine sehr lange Haltbarkeit aufweist."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Bauholzshop: Alles f\u00fcr Ihr Bauvorhaben!",
+            "metaDescription": "Bauholzshop - Hier findest du alles was du f\u00fcr dein Bauvorhaben brauchst!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Bauholz-Hersteller: Qualit\u00e4tsholz f\u00fcr Bau und Handwerk",
+            "metaDescription": "Bauholz ist ein deutscher Hersteller von hochwertigem Holz und Holzprodukten. Wir bieten unseren Kunden eine gro\u00dfe Auswahl an verschiedenen Bauholzprodukten.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT aus Bauholz - Qualit\u00e4t und Vielfalt bei OTTO",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist das ideale Bauholz f\u00fcr Ihr Projekt. Wir haben das richtige Holz f\u00fcr jede $KATEGORIE.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Bauholz",
+        "defaultMetaDescription": "$KATEGORIE Bauholz - Finden Sie hier das passende Bauholz f\u00fcr Ihr Vorhaben. Wir haben das Holz f\u00fcr die unterschiedlichsten Einsatzzwecke.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von Bauholz und Holzprodukten. Wir bieten hochwertige Bauholzprodukte f\u00fcr den privaten und gewerblichen Einsatz.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Bauholz",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Bauholz Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Bauholz Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
