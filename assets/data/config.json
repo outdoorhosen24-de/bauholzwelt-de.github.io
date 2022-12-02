@@ -51,12 +51,15 @@
             "title": "Bauholzshop: Alles für Ihr Bauvorhaben!",
             "metaDescription": "Bauholzshop - alles für Ihr Bauvorhaben! Holz, Bretter, Bohlen, Dielen und mehr in bester Qualität.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Bauholz: Ein nützliches Material für den Bau",
-                    "text": "Bauholz ist das Holz, das zum Bauen von Häusern und anderen Gebäuden verwendet wird. Es ist sehr stark und haltbar und kann in verschiedenen Größen und Formen geschnitten werden. Bauholz ist in der Regel aus Nadelhölzern wie Fichte, Kiefer oder Tanne gefertigt.\n\nBauholz wird seit Jahrhunderten zum Bauen von Häusern und anderen Gebäuden verwendet. Es ist ein sehr beliebtes Material, weil es sehr stark und haltbar ist. Bauholz kann in verschiedenen Größen und Formen geschnitten werden und ist daher sehr vielseitig einsetzbar.\n\nBauholz ist in der Regel aus Nadelhölzern wie Fichte, Kiefer oder Tanne gefertigt. Diese Hölzer sind sehr widerstandsfähig und können problemlos im Freien eingesetzt werden. Bauholz ist auch sehr langlebig und kann mehrere Jahrzehnte halten.\n\nBauholz ist ein sehr beliebtes Material für den Hausbau, weil es sehr vielseitig einsetzbar ist und eine sehr lange Haltbarkeit aufweist."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Bauholz: Ein nützliches Material für den Bau",
+                        "text": "Bauholz ist das Holz, das zum Bauen von Häusern und anderen Gebäuden verwendet wird. Es ist sehr stark und haltbar und kann in verschiedenen Größen und Formen geschnitten werden. Bauholz ist in der Regel aus Nadelhölzern wie Fichte, Kiefer oder Tanne gefertigt.\n\nBauholz wird seit Jahrhunderten zum Bauen von Häusern und anderen Gebäuden verwendet. Es ist ein sehr beliebtes Material, weil es sehr stark und haltbar ist. Bauholz kann in verschiedenen Größen und Formen geschnitten werden und ist daher sehr vielseitig einsetzbar.\n\nBauholz ist in der Regel aus Nadelhölzern wie Fichte, Kiefer oder Tanne gefertigt. Diese Hölzer sind sehr widerstandsfähig und können problemlos im Freien eingesetzt werden. Bauholz ist auch sehr langlebig und kann mehrere Jahrzehnte halten.\n\nBauholz ist ein sehr beliebtes Material für den Hausbau, weil es sehr vielseitig einsetzbar ist und eine sehr lange Haltbarkeit aufweist."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Bauholzshop: Alles für Ihr Bauvorhaben!",
