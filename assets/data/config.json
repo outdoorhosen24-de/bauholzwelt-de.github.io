@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "bauholzwelt.de",
     "hostname": "https://www.bauholzwelt.de/",
     "email": "bauholzwelt.de@surrealnetworks.io",
     "organization": "bauholzwelt.de",
     "logoText": "Bauholzwelt.de",
     "title": "Bauholz",
-    "subline": "Der Online Shop für Bauholz",
+    "subline": "Ihr Online Shop für Konstruktionshölzer ",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Bauholz",
-        "featureText": "Das Bauholz-Shop ist ein Online-Shop, der auf Bauholz spezialisiert ist. Sie können verschiedene Arten von Bauholz finden, wie zum Beispiel: Kiefer, Fichte, Tanne, Douglasie, Lärche, Eiche, Buche, Birke, Nussbaum, Kirsche, Walnuss, etc.",
+        "featureText": "Unser Online-Shop bietet Ihnen ein breites Sortiment an Bauhölzern, bestehend aus verschiedenen Holzarten wie z.B. Fichte, Tanne, Kiefer, Lärche etc. Dabei bieten wir Ihnen eine große Auswahl an Konstruktionshölzern jeglicher Art, darunter Vollholz, OSB-Platten, Profilholz und vieles mehr. Immer das passende Produkt für Ihr Vorhaben.",
         "index": {
-            "title": "Bauholzshop: Alles für Ihr Bauvorhaben!",
-            "metaDescription": "Bauholzshop - alles für Ihr Bauvorhaben! Holz, Bretter, Bohlen, Dielen und mehr in bester Qualität.",
+            "title": "Bauholz - einfach online bestellen",
+            "metaDescription": "Bauholz (Konstruktionsholz) zum günstigen Preis. Riesige Auswahl an verschiedenen Bauhölzern (Vollholz, Profilholz, OSB etc.) aus mehreren Holzarten!",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Bauholzshop: Alles für Ihr Bauvorhaben!",
-            "metaDescription": "Bauholzshop - Hier findest du alles was du für dein Bauvorhaben brauchst!",
+            "title": "Onlineshop für Bauholz",
+            "metaDescription": "Bauholz (Konstruktionsholz) einfach online bestellen - Breite Auswahl an Bauhölzern zu günstigen Preisen per Mausklick zu Ihnen nach Hause!",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Bauholz-Hersteller: Qualitätsholz für Bau und Handwerk",
-            "metaDescription": "Bauholz ist ein deutscher Hersteller von hochwertigem Holz und Holzprodukten. Wir bieten unseren Kunden eine große Auswahl an verschiedenen Bauholzprodukten.",
+            "title": "Bauholz von renommierten Herstellern",
+            "metaDescription": "Unser Bauholz Onlineshop bietet Holzprodukte von Herstellern wie Rettenmeier und Decorate. Dabei handelt es sich ausschließlich um Qualitätsprodukte!",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT aus Bauholz - Qualität und Vielfalt bei OTTO",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist das ideale Bauholz für Ihr Projekt. Wir haben das richtige Holz für jede $KATEGORIE.",
+        "defaultTitle": "$PRODUKT - einfach, günstig bestellen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - Qualitätsprodukte zum günstigen Preis! Viele Bauhölzer aus verschiedenen Kategorien wie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Bauholz",
-        "defaultMetaDescription": "$KATEGORIE Bauholz - Finden Sie hier das passende Bauholz für Ihr Vorhaben. Wir haben das Holz für die unterschiedlichsten Einsatzzwecke.",
+        "defaultTitle": "$KATEGORIE: Bauhölzer verschiedener Arten",
+        "defaultMetaDescription": "$KATEGORIE - Kaufen Sie Bauholz als Vollholz, Profilholz, OSB etc. aus verschiedenen Holzarten in mehreren Kategorien wie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von Bauholz und Holzprodukten. Wir bieten hochwertige Bauholzprodukte für den privaten und gewerblichen Einsatz.",
+        "defaultTitle": "$HERSTELLER - Markenprodukte zum günstigen Preis",
+        "defaultMetaDescription": "$HERSTELLER ist ein renommierter Hersteller für Bauholzprodukte verschiedener Holzarten und -strukturen. Qualitätsprodukte zum günstigen Preis. ",
         "defaultRobots": "index, follow",
         "brands": [
             {
