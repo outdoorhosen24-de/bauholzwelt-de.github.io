@@ -52,11 +52,47 @@
             "metaDescription": "Bauholz (Konstruktionsholz) zum günstigen Preis. Riesige Auswahl an verschiedenen Bauhölzern (Vollholz, Profilholz, OSB etc.) aus mehreren Holzarten!",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
+                "published": true,
                 "content": [
                     {
-                        "title": "Bauholz: Ein nützliches Material für den Bau",
-                        "text": "Bauholz ist das Holz, das zum Bauen von Häusern und anderen Gebäuden verwendet wird. Es ist sehr stark und haltbar und kann in verschiedenen Größen und Formen geschnitten werden. Bauholz ist in der Regel aus Nadelhölzern wie Fichte, Kiefer oder Tanne gefertigt.\n\nBauholz wird seit Jahrhunderten zum Bauen von Häusern und anderen Gebäuden verwendet. Es ist ein sehr beliebtes Material, weil es sehr stark und haltbar ist. Bauholz kann in verschiedenen Größen und Formen geschnitten werden und ist daher sehr vielseitig einsetzbar.\n\nBauholz ist in der Regel aus Nadelhölzern wie Fichte, Kiefer oder Tanne gefertigt. Diese Hölzer sind sehr widerstandsfähig und können problemlos im Freien eingesetzt werden. Bauholz ist auch sehr langlebig und kann mehrere Jahrzehnte halten.\n\nBauholz ist ein sehr beliebtes Material für den Hausbau, weil es sehr vielseitig einsetzbar ist und eine sehr lange Haltbarkeit aufweist."
+                        "title": "Willkommen auf bauholzwelt.de",
+                        "text": "Ihrem Online-Shop für hochwertiges Bauholz und Holzprodukte. Wir bieten eine große Auswahl an Konstruktionsvollholz, Brettschichtholz, OSB Platten, Hobelware, Sägerauem Holz, Profilholz, Zierprofilen, Verlegeplatten und Rauspund in verschiedenen Größen und Qualitäten. Unser Holz stammt aus nachhaltiger Forstwirtschaft und wird von erfahrenen Handwerkern sorgfältig ausgewählt und verarbeitet. Ob Sie ein Haus bauen, eine Terrasse anlegen oder ein Möbelstück selbst bauen möchten – bei uns finden Sie das richtige Holz für Ihr Projekt."
+                    },
+                    {
+                        "title": "Konstruktionsvollholz & Brettschichtholz",
+                        "text": "Unser <a href=\"/kategorie/konstruktionsvollholz-brettschichtholz/\" title=\"Konstruktionsvollholz und Brettschichtholz\">Konstruktionsvollholz und Brettschichtholz</a> ist besonders stabil und eignet sich hervorragend für tragende Bauteile wie Balken, Pfosten und Träger. Wir bieten eine große Auswahl an Größen und Qualitäten, damit Sie das passende Holz für Ihr Bauprojekt finden."
+                    },
+                    {
+                        "title": "OSB Platten & Verlegeplatten",
+                        "text": "<a href=\"/kategorie/osb-platten-verlegeplatten/\" title=\"OSB Platten und Verlegeplatten\">OSB Platten und Verlegeplatten</a> eignen sich perfekt als Untergrund für Böden, Wände und Dächer. Sie sind robust, langlebig und leicht zu verlegen. Wir bieten verschiedene Größen und Stärken, damit Sie die passende Platte für Ihr Projekt finden."
+                    },
+                    {
+                        "title": "Hobelware",
+                        "text": "<a href=\"/kategorie/hobelware/\" title=\"Hobelware\">Hobelware</a> ist glatt und gleichmäßig und eignet sich perfekt für den Bau von Möbeln, Türen, Fenstern und anderen hochwertigen Holzprodukten. Wir bieten verschiedene Holzarten und Größen, damit Sie das passende Holz für Ihr Projekt finden."
+                    },
+                    {
+                        "title": "Sägeraue Ware",
+                        "text": "Unsere <a href=\"/kategorie/sageraue-ware/\" title=\"sägeraue Ware\">sägeraue Ware</a> ist rustikal und authentisch und eignet sich perfekt für den Bau von rustikalen Möbeln, Zäunen, Scheunen und anderen Projekten. Wir bieten verschiedene Holzarten und Größen, damit Sie das passende Holz für Ihr Projekt finden."
+                    },
+                    {
+                        "title": "Profilholz",
+                        "text": "Unser <a href=\"/kategorie/profiholz/\" title=\"Profiholz\">Profilholz</a> ist in verschiedenen Designs und Holzarten erhältlich und eignet sich perfekt für den Bau von Wandverkleidungen, Deckenpaneelen und anderen dekorativen Holzprodukten. Wir bieten verschiedene Größen und Profile, damit Sie das passende Holz für Ihr Projekt finden."
+                    },
+                    {
+                        "title": "Zierprofile",
+                        "text": "<a href=\"/kategorie/zierprofile/\" title=\"Zierprofile\">Zierprofile</a> sind in verschiedenen Designs und Holzarten erhältlich und eignen sich perfekt für den Bau von dekorativen Holzprodukten wie Fensterrahmen, Türumrandungen und Möbeln. Wir bieten verschiedene Größen und Profile, damit Sie das passende Holz für Ihr Projekt finden. Ob Sie nach klassischen, modernen oder rustikalen Designs suchen, wir haben das richtige Holz für Sie. Unsere Zierprofile werden von erfahrenen Handwerkern sorgfältig ausgewählt und verarbeitet, um eine hohe Qualität und Langlebigkeit zu gewährleisten. Entdecken Sie unsere Auswahl an Zierprofilen und bringen Sie einzigartige Akzente in Ihr Zuhause oder Büro."
+                    },
+                    {
+                        "title": "Verlegeplatten",
+                        "text": "<a href=\"/kategorie/verlegeplatten/\" title=\"Verlegeplatten\">Verlegeplatten</a> sind langlebig und vielseitig und eignen sich perfekt für den Bau von Böden, Wänden und Dächern. Wir bieten verschiedene Größen und Stärken, damit Sie die passende Platte für Ihr Projekt finden. Ob Sie nach OSB-Platten, Sperrholz oder anderen Materialien suchen, wir haben das richtige Produkt für Sie. Unsere Verlegeplatten sind von hoher Qualität und werden von erfahrenen Handwerkern sorgfältig ausgewählt und verarbeitet, um eine lange Lebensdauer und eine hohe Widerstandsfähigkeit zu gewährleisten."
+                    },
+                    {
+                        "title": "Rauspund",
+                        "text": "Unser <a href=\"/kategorie/rauspund/\" title=\"Rauspund\">Rauspund</a> ist rustikal und authentisch und eignet sich perfekt für den Bau von Außenverkleidungen, Zäunen, Scheunen und anderen Projekten. Wir bieten verschiedene Holzarten und Größen, damit Sie das passende Holz für Ihr Projekt finden. Ob Sie nach Kiefer, Fichte oder Lärche suchen, wir haben das richtige Holz für Sie. Unser Rauspund wird von erfahrenen Handwerkern sorgfältig ausgewählt und verarbeitet, um eine hohe Qualität und Langlebigkeit zu gewährleisten. Entdecken Sie unsere Auswahl an Rauspund und bringen Sie rustikalen Charme in Ihr Zuhause oder Büro."
+                    },
+                    {
+                        "title": "Bauholzwelt.de - Ihr Online-Shop für das richtige Bauholz",
+                        "text": "Wir sind stolz darauf, unseren Kunden hochwertiges Bauholz und Holzprodukte zu wettbewerbsfähigen Preisen anzubieten. Unser Ziel ist es, Ihnen eine unkomplizierte und schnelle Bestellabwicklung sowie eine schnelle Lieferung zu bieten. Wir sind bestrebt, eine dauerhafte und vertrauensvolle Beziehung zu unseren Kunden aufzubauen und freuen uns darauf, Sie bei Ihrem nächsten Bauvorhaben zu unterstützen. Schauen Sie sich gerne in unserem Sortiment um und zögern Sie nicht, uns bei Fragen zu kontaktieren."
                     }
                 ]
             }
