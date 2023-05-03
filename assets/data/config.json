@@ -6,7 +6,7 @@
   "organization": "bauholzwelt.de",
   "logoText": "Bauholzwelt.de",
   "title": "Bauholz",
-  "subline": "Ihr Online Shop f\u00fcr Konstruktionsh\u00f6lzer ",
+  "subline": "Ihr Online Shop für Konstruktionshölzer ",
   "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
   "imageFolder": "/assets/images/images/",
   "productUrl": "/produkt/",
@@ -46,82 +46,115 @@
   "seo": {
     "htmlLang": "de",
     "mainKeyword": "Bauholz",
-    "featureText": "Unser Online-Shop bietet Ihnen ein breites Sortiment an Bauh\u00f6lzern, bestehend aus verschiedenen Holzarten wie z.B. Fichte, Tanne, Kiefer, L\u00e4rche etc. Dabei bieten wir Ihnen eine gro\u00dfe Auswahl an Konstruktionsh\u00f6lzern jeglicher Art, darunter Vollholz, OSB-Platten, Profilholz und vieles mehr. Immer das passende Produkt f\u00fcr Ihr Vorhaben.",
+    "featureText": "Unser Online-Shop bietet Ihnen ein breites Sortiment an Bauhölzern, bestehend aus verschiedenen Holzarten wie z.B. Fichte, Tanne, Kiefer, Lärche etc. Dabei bieten wir Ihnen eine große Auswahl an Konstruktionshölzern jeglicher Art, darunter Vollholz, OSB-Platten, Profilholz und vieles mehr. Immer das passende Produkt für Ihr Vorhaben.",
     "index": {
       "title": "Bauholz - einfach online bestellen",
-      "metaDescription": "Bauholz (Konstruktionsholz) zum g\u00fcnstigen Preis. Riesige Auswahl an verschiedenen Bauh\u00f6lzern (Vollholz, Profilholz, OSB etc.) aus mehreren Holzarten!",
+      "metaDescription": "Bauholz (Konstruktionsholz) zum günstigen Preis. Riesige Auswahl an verschiedenen Bauhölzern (Vollholz, Profilholz, OSB etc.) aus mehreren Holzarten!",
       "robots": "index, follow",
       "seotext": {
         "published": true,
         "content": [
           {
             "title": "Willkommen bei Bauholzwelt",
-            "text": "Herzlich Willkommen auf Bauholzwelt, Ihrem Online-Shop f\u00fcr hochwertige Bauholzprodukte. Unser Sortiment umfasst eine breite Palette an Konstruktionsvollholz, Brettschichtholz, OSB Platten, Hobelware, S\u00e4geraue Ware, Profilholz, Zierprofile, Verlegeplatten und Rauspund. Unser Ziel ist es, Ihnen stets hochwertige Produkte zu einem attraktiven Preis anzubieten. Wir legen gro\u00dfen Wert auf eine gute Beratung und einen erstklassigen Kundenservice. Unsere erfahrenen Mitarbeiter stehen Ihnen jederzeit zur Verf\u00fcgung, um Ihnen bei allen Fragen rund um unser Sortiment weiterzuhelfen. Wir sind stolz darauf, Ihnen eine breite Auswahl an Bauholzprodukten anbieten zu k\u00f6nnen, die Ihren Anspr\u00fcchen und Anforderungen gerecht werden. St\u00f6bern Sie in Ruhe durch unsere Kategorien und entdecken Sie das passende Produkt f\u00fcr Ihr Projekt. Wir freuen uns darauf, Sie bald als Kunden begr\u00fc\u00dfen zu d\u00fcrfen. Bei Fragen stehen wir Ihnen jederzeit zur Verf\u00fcgung."
+            "text": "Herzlich Willkommen auf Bauholzwelt, Ihrem Online-Shop für hochwertige Bauholzprodukte. Unser Sortiment umfasst eine breite Palette an Konstruktionsvollholz, Brettschichtholz, OSB Platten, Hobelware, Sägeraue Ware, Profilholz, Zierprofile, Verlegeplatten und Rauspund. Unser Ziel ist es, Ihnen stets hochwertige Produkte zu einem attraktiven Preis anzubieten. Wir legen großen Wert auf eine gute Beratung und einen erstklassigen Kundenservice. Unsere erfahrenen Mitarbeiter stehen Ihnen jederzeit zur Verfügung, um Ihnen bei allen Fragen rund um unser Sortiment weiterzuhelfen. Wir sind stolz darauf, Ihnen eine breite Auswahl an Bauholzprodukten anbieten zu können, die Ihren Ansprüchen und Anforderungen gerecht werden. Stöbern Sie in Ruhe durch unsere Kategorien und entdecken Sie das passende Produkt für Ihr Projekt. Wir freuen uns darauf, Sie bald als Kunden begrüßen zu dürfen. Bei Fragen stehen wir Ihnen jederzeit zur Verfügung."
           },
           {
             "title": "Konstruktionsvollholz & Brettschichtholz",
-            "text": "<a href=\"/kategorie/konstruktionsvollholz-brettschichtholz/\" title=\"Konstruktionsvollholz & Brettschichtholz\">Konstruktionsvollholz & Brettschichtholz</a> sind die perfekten Materialien f\u00fcr den Bau. Diese robusten und langlebigen Holzprodukte sind ideal f\u00fcr den Einsatz in Konstruktionen wie Dachst\u00fchlen, Wandverkleidungen und B\u00f6den. Bei Bauholzwelt.de finden Sie eine breite Auswahl an Konstruktionsvollholz & Brettschichtholz in verschiedenen Gr\u00f6\u00dfen und St\u00e4rken, um Ihre Bauprojekte erfolgreich umzusetzen. Wir bieten eine sichere und zuverl\u00e4ssige Lieferung direkt zu Ihnen nach Hause oder an den Baustellenort."
+            "text": "<a href=\"/kategorie/konstruktionsvollholz-brettschichtholz/\" title=\"Konstruktionsvollholz & Brettschichtholz\">Konstruktionsvollholz & Brettschichtholz</a> sind die perfekten Materialien für den Bau. Diese robusten und langlebigen Holzprodukte sind ideal für den Einsatz in Konstruktionen wie Dachstühlen, Wandverkleidungen und Böden. Bei Bauholzwelt.de finden Sie eine breite Auswahl an Konstruktionsvollholz & Brettschichtholz in verschiedenen Größen und Stärken, um Ihre Bauprojekte erfolgreich umzusetzen. Wir bieten eine sichere und zuverlässige Lieferung direkt zu Ihnen nach Hause oder an den Baustellenort."
           },
           {
             "title": "OSB Platten & Verlegeplatten",
-            "text": "<a href=\"/kategorie/osb-platten-verlegeplatten/\" title=\"OSB Platten & Verlegeplatten\">OSB Platten & Verlegeplatten</a> sind ein unverzichtbarer Bestandteil vieler Bauprojekte. Diese robusten und langlebigen Holzwerkstoffe eignen sich ideal f\u00fcr den Einsatz als Dachdeckung, Wand- und Bodenverkleidung. Bei Bauholzwelt.de finden Sie eine gro\u00dfe Auswahl an OSB Platten & Verlegeplatten in verschiedenen Gr\u00f6\u00dfen und St\u00e4rken, um Ihre Bauprojekte erfolgreich umzusetzen. Unsere sicheren und zuverl\u00e4ssigen Lieferungen garantieren, dass Sie Ihre Bestellungen rechtzeitig erhalten und Ihre Projekte reibungslos verlaufen."
+            "text": "<a href=\"/kategorie/osb-platten-verlegeplatten/\" title=\"OSB Platten & Verlegeplatten\">OSB Platten & Verlegeplatten</a> sind ein unverzichtbarer Bestandteil vieler Bauprojekte. Diese robusten und langlebigen Holzwerkstoffe eignen sich ideal für den Einsatz als Dachdeckung, Wand- und Bodenverkleidung. Bei Bauholzwelt.de finden Sie eine große Auswahl an OSB Platten & Verlegeplatten in verschiedenen Größen und Stärken, um Ihre Bauprojekte erfolgreich umzusetzen. Unsere sicheren und zuverlässigen Lieferungen garantieren, dass Sie Ihre Bestellungen rechtzeitig erhalten und Ihre Projekte reibungslos verlaufen."
           },
           {
             "title": "Hobelware",
-            "text": "<a href=\"/kategorie/hobelware/\" title=\"Hobelware\">Hobelware</a> ist ein wichtiger Bestandteil vieler Holzarbeiten. Diese hochwertigen Holzprodukte eignen sich ideal f\u00fcr den Einsatz in M\u00f6belbau, Innenausbau und anderen Holzbauprojekten. Bei Bauholzwelt.de finden Sie eine gro\u00dfe Auswahl an Hobelware in verschiedenen Gr\u00f6\u00dfen und St\u00e4rken, um Ihre Holzarbeiten erfolgreich umzusetzen. Wir garantieren eine sichere und zuverl\u00e4ssige Lieferung direkt zu Ihnen nach Hause oder an den Arbeitsort."
+            "text": "<a href=\"/kategorie/hobelware/\" title=\"Hobelware\">Hobelware</a> ist ein wichtiger Bestandteil vieler Holzarbeiten. Diese hochwertigen Holzprodukte eignen sich ideal für den Einsatz in Möbelbau, Innenausbau und anderen Holzbauprojekten. Bei Bauholzwelt.de finden Sie eine große Auswahl an Hobelware in verschiedenen Größen und Stärken, um Ihre Holzarbeiten erfolgreich umzusetzen. Wir garantieren eine sichere und zuverlässige Lieferung direkt zu Ihnen nach Hause oder an den Arbeitsort."
           },
           {
-            "title": "S\u00e4geraue Ware",
-            "text": "<a href=\"/kategorie/saegeraue-ware/\" title=\"S\u00e4geraue Ware\">S\u00e4geraue Ware</a> ist das ideale Material f\u00fcr den Bau und die Holzverarbeitung. Diese hochwertigen Holzprodukte eignen sich ideal f\u00fcr den Einsatz in M\u00f6belbau, Innenausbau und anderen Holzbauprojekten. Bei Bauholzwelt.de finden Sie eine breite Auswahl an S\u00e4geraue Ware in verschiedenen Gr\u00f6\u00dfen und St\u00e4rken, um Ihre Bauprojekte erfolgreich umzusetzen. Wir bieten eine sichere und zuverl\u00e4ssige Lieferung direkt zu Ihnen nach Hause oder an den Baustellenort."
+            "title": "Sägeraue Ware",
+            "text": "<a href=\"/kategorie/saegeraue-ware/\" title=\"Sägeraue Ware\">Sägeraue Ware</a> ist das ideale Material für den Bau und die Holzverarbeitung. Diese hochwertigen Holzprodukte eignen sich ideal für den Einsatz in Möbelbau, Innenausbau und anderen Holzbauprojekten. Bei Bauholzwelt.de finden Sie eine breite Auswahl an Sägeraue Ware in verschiedenen Größen und Stärken, um Ihre Bauprojekte erfolgreich umzusetzen. Wir bieten eine sichere und zuverlässige Lieferung direkt zu Ihnen nach Hause oder an den Baustellenort."
           },
           {
             "title": "Profilholz",
-            "text": "<a href=\"/kategorie/profilholz/\" title=\"Profilholz\">Profilholz</a> ist ein unverzichtbarer Bestandteil vieler Bauprojekte. Diese robusten und langlebigen Holzprodukte eignen sich ideal f\u00fcr den Einsatz in Konstruktionen wie Dachst\u00fchlen, Wandverkleidungen und B\u00f6den. Bei Bauholzwelt.de finden Sie eine gro\u00dfe Auswahl an Profilholz in verschiedenen Gr\u00f6\u00dfen und St\u00e4rken, um Ihre Bauprojekte erfolgreich umzusetzen. Unsere sicheren und zuverl\u00e4ssigen Lieferungen garantieren, dass Sie Ihre Bestellungen rechtzeitig erhalten und Ihre Projekte reibungslos verlaufen."
+            "text": "<a href=\"/kategorie/profilholz/\" title=\"Profilholz\">Profilholz</a> ist ein unverzichtbarer Bestandteil vieler Bauprojekte. Diese robusten und langlebigen Holzprodukte eignen sich ideal für den Einsatz in Konstruktionen wie Dachstühlen, Wandverkleidungen und Böden. Bei Bauholzwelt.de finden Sie eine große Auswahl an Profilholz in verschiedenen Größen und Stärken, um Ihre Bauprojekte erfolgreich umzusetzen. Unsere sicheren und zuverlässigen Lieferungen garantieren, dass Sie Ihre Bestellungen rechtzeitig erhalten und Ihre Projekte reibungslos verlaufen."
           },
           {
             "title": "Zierprofile",
-            "text": "<a href=\"/kategorie/zierprofile/\" title=\"Zierprofile\">Zierprofile</a> sind der Schl\u00fcssel zu einem erfolgreichen Innenausbau. Diese hochwertigen Holzprodukte eignen sich ideal f\u00fcr den Einsatz in M\u00f6belbau, Innenausbau und anderen Holzbauprojekten. Bei Bauholzwelt.de finden Sie eine gro\u00dfe Auswahl an Zierprofilen in verschiedenen Designs und Stilen, um Ihre Innenr\u00e4ume zu vervollst\u00e4ndigen. Wir garantieren eine sichere und zuverl\u00e4ssige Lieferung direkt zu Ihnen nach Hause oder an den Arbeitsort."
+            "text": "<a href=\"/kategorie/zierprofile/\" title=\"Zierprofile\">Zierprofile</a> sind der Schlüssel zu einem erfolgreichen Innenausbau. Diese hochwertigen Holzprodukte eignen sich ideal für den Einsatz in Möbelbau, Innenausbau und anderen Holzbauprojekten. Bei Bauholzwelt.de finden Sie eine große Auswahl an Zierprofilen in verschiedenen Designs und Stilen, um Ihre Innenräume zu vervollständigen. Wir garantieren eine sichere und zuverlässige Lieferung direkt zu Ihnen nach Hause oder an den Arbeitsort."
           },
           {
             "title": "Verlegeplatten",
-            "text": "<a href=\"/kategorie/verlegeplatten/\" title=\"Verlegeplatten\">Verlegeplatten</a> sind ein unverzichtbarer Bestandteil vieler Bauprojekte. Diese robusten und langlebigen Holzwerkstoffe eignen sich ideal f\u00fcr den Einsatz als Dachdeckung, Wand- und Bodenverkleidung. Bei Bauholzwelt.de finden Sie eine gro\u00dfe Auswahl an Verlegeplatten in verschiedenen Gr\u00f6\u00dfen und St\u00e4rken, um Ihre Bauprojekte erfolgreich umzusetzen. Unsere sicheren und zuverl\u00e4ssigen Lieferungen garantieren, dass Sie Ihre Bestellungen rechtzeitig erhalten und Ihre Projekte reibungslos verlaufen."
+            "text": "<a href=\"/kategorie/verlegeplatten/\" title=\"Verlegeplatten\">Verlegeplatten</a> sind ein unverzichtbarer Bestandteil vieler Bauprojekte. Diese robusten und langlebigen Holzwerkstoffe eignen sich ideal für den Einsatz als Dachdeckung, Wand- und Bodenverkleidung. Bei Bauholzwelt.de finden Sie eine große Auswahl an Verlegeplatten in verschiedenen Größen und Stärken, um Ihre Bauprojekte erfolgreich umzusetzen. Unsere sicheren und zuverlässigen Lieferungen garantieren, dass Sie Ihre Bestellungen rechtzeitig erhalten und Ihre Projekte reibungslos verlaufen."
           },
           {
             "title": "Rauspund",
-            "text": "<a href=\"/kategorie/rauspund/\" title=\"Rauspund\">Rauspund</a> ist ein wichtiger Bestandteil vieler Holzarbeiten. Diese hochwertigen Holzprodukte eignen sich ideal f\u00fcr den Einsatz in M\u00f6belbau, Innenausbau und anderen Holzbauprojekten. Bei Bauholzwelt.de finden Sie eine gro\u00dfe Auswahl an Rauspund in verschiedenen Gr\u00f6\u00dfen und St\u00e4rken, um Ihre Holzarbeiten erfolgreich umzusetzen. Wir garantieren eine sichere und zuverl\u00e4ssige Lieferung direkt zu Ihnen nach Hause oder an den Arbeitsort."
+            "text": "<a href=\"/kategorie/rauspund/\" title=\"Rauspund\">Rauspund</a> ist ein wichtiger Bestandteil vieler Holzarbeiten. Diese hochwertigen Holzprodukte eignen sich ideal für den Einsatz in Möbelbau, Innenausbau und anderen Holzbauprojekten. Bei Bauholzwelt.de finden Sie eine große Auswahl an Rauspund in verschiedenen Größen und Stärken, um Ihre Holzarbeiten erfolgreich umzusetzen. Wir garantieren eine sichere und zuverlässige Lieferung direkt zu Ihnen nach Hause oder an den Arbeitsort."
           }
         ]
       }
     },
     "shop": {
-      "title": "Onlineshop f\u00fcr Bauholz",
-      "metaDescription": "Bauholz (Konstruktionsholz) einfach online bestellen - Breite Auswahl an Bauh\u00f6lzern zu g\u00fcnstigen Preisen per Mausklick zu Ihnen nach Hause!",
+      "title": "Onlineshop für Bauholz",
+      "metaDescription": "Bauholz (Konstruktionsholz) einfach online bestellen - Breite Auswahl an Bauhölzern zu günstigen Preisen per Mausklick zu Ihnen nach Hause!",
       "robots": "index, follow"
     },
     "hersteller": {
       "title": "Bauholz von renommierten Herstellern",
-      "metaDescription": "Unser Bauholz Onlineshop bietet Holzprodukte von Herstellern wie Rettenmeier und Decorate. Dabei handelt es sich ausschlie\u00dflich um Qualit\u00e4tsprodukte!",
+      "metaDescription": "Unser Bauholz Onlineshop bietet Holzprodukte von Herstellern wie Rettenmeier und Decorate. Dabei handelt es sich ausschließlich um Qualitätsprodukte!",
       "robots": "index, follow"
     }
   },
   "productSeo": {
-    "defaultTitle": "$PRODUKT - einfach, g\u00fcnstig bestellen",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER - Qualit\u00e4tsprodukte zum g\u00fcnstigen Preis! Viele Bauh\u00f6lzer aus verschiedenen Kategorien wie $KATEGORIE.",
+    "defaultTitle": "$PRODUKT - einfach, günstig bestellen",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER - Qualitätsprodukte zum günstigen Preis! Viele Bauhölzer aus verschiedenen Kategorien wie $KATEGORIE.",
     "defaultRobots": "index, follow",
     "products": [
       {
         "sku": "5637909794",
         "name": "Ortovox PALA PANTS Kletterhose",
         "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
           "robots": "index, follow"
+        }
+      },
+      {
+        "sku": "4918348",
+        "seo": {
+          "texts": [
+            {
+              "title": "Sonstige OSB-3-Verlegeplatte 12 mm mit Nut & Feder 205 cm x 62,5 cm (59 Platten - 75,52 m)",
+              "text": "<p class=\"justify\">Die OSB-3-Verlegeplatte 12 mm mit Nut und Feder 205 cm x 62,5 cm von der Marke Sonstige ist eine hochwertige und vielseitige Platte, die sich ideal für den Einsatz im Rohbau und Innenausbau eignet. Sie kann als Wand- oder Deckenverkleidung und Bodenbelag verwendet werden, und ihre dekorative und markante Optik macht sie auch für den Möbelbau interessant.</p><p class=\"justify\">Hergestellt aus großflächig verleimten Furnierstreifen und vierseitig mit einer Nut und Feder versehen, bieten die Platten eine hohe Formstabilität und einen hohen Festigkeitswert. OSB-3-Platten sind aufgrund ihrer hohen Biegefestigkeit ideal für tragende Elemente von Decken- und Dachkonstruktionen oder als Versteifungen und Verschalungen von Außen- und Innenwänden geeignet. Zudem sind sie für den Messe- oder Ladenbau und zur zeitweisen Abdeckung von Gebäudeöffnungen bei Renovierungen verwendbar. Im Vergleich zu herkömmlichen Spanplatten sind OSB-Platten stabiler und biegefester, was sie besonders belastbar macht.</p><p class=\"justify\">Die Platte entspricht der Klasse OSB/3 gemäß der Norm EN 300, was bedeutet, dass sie für tragende Zwecke im Trocken- und Feuchtbereich einsetzbar ist. Damit eignen sie sich besonders für die Verbauung in Räumen mit hoher Luftfeuchtigkeit. Zudem ist die OSB3-Verlegeplatte in die Emissionsklasse E1 eingestuft und weist eine sehr geringe Formaldehyd-Ausgleichskonzentration von unter 0,1 ppm auf. Dies bedeutet, dass das zur Verleimung verwendete Bindemittel einen sehr geringen Anteil an schädlichem Formaldehyd enthält.</p><p class=\"justify\">Mit einer Abmessung von 205 cm x 62,5 cm und einem Set von 59 Platten, die insgesamt eine Fläche von 75,52 m² abdecken, ist diese OSB-3-Verlegeplatte ein praktisches und wirtschaftliches Produkt für Bau- und Renovierungsprojekte. Dank ihrer hohen Qualität und vielseitigen Anwendungsmöglichkeiten stellt sie eine ausgezeichnete Wahl für Heimwerker und Profis dar.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "2273050",
+        "seo": {
+          "texts": [
+            {
+              "title": "Decorate Zierprofil A35 1 m - Eine stilechte Verzierung für Ihr Zuhause",
+              "text": "<p class=\"justify\">Das Decorate Zierprofil A35 1 m ist ein klassisches und stilvolles Dekoelement, das jedem Raum eine edle Note verleiht. Mit seiner Erscheinung, die echtem Stuck täuschend ähnlich sieht, lassen sich Wohnträume verwirklichen und das gewünschte Ambiente schaffen. Ob Altbauflair oder trendiges Loftfeeling, die vielfältigen Designs der Decorate Zierprofile ermöglichen eine Anpassung an den individuellen Wohnstil und Charme.</p><p class=\"justify\">Das hochwertige Zierprofil A35 eignet sich sowohl für Decken- als auch für Wanddekorationen und lässt sich dabei individuell gestalten. Durch die umweltfreundlichen, lösemittelfreien Montagekleber und Dispersionsfarben wird die Anwendung des Decorate Zierprofils besonders einfach und unkompliziert. Zudem ist es farblich überstreichbar, sodass es dem persönlichen Geschmack und den Raumgegebenheiten angepasst werden kann.</p><p class=\"justify\">Mit einer Länge von einem Meter, bietet das Zierprofil genug Spielraum für unterschiedliche Anwendungsbereiche. Ob puristisch-urban, ländlich-rustikal oder klassisch-opulent, mit dem Decorate Zierprofil A35 können Sie Ihren persönlichen Wohnstil verwirklichen und ein stilvolles Ambiente schaffen, das Ihre Gäste beeindrucken wird.</p><p class=\"justify\">Gefertigt aus hochwertigen Materialien verspricht das Zierprofil A35 in jedem Fall eine lange Lebensdauer und ist somit eine lohnende Investition in die Gestaltung Ihrer Wohnräume. Entdecken Sie die vielfältigen Möglichkeiten, die Ihnen das Decorate Zierprofil A35 bietet, und verwandeln Sie Ihr Zuhause in eine stilvolle Wohlfühloase.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "4341178",
+        "seo": {
+          "texts": [
+            {
+              "title": "OSB-3-Platte stumpf 22 mm x 250 cm x 125 cm (32 Platten - 100 m²) 1 Palette",
+              "text": "<p class=\"justify\">Die OSB-3-Platte stumpf 22 mm x 250 cm x 125 cm ist ein hochwertiges Produkt von der Marke Sonstige. Diese Verlegeplatte ist ideal für den Einsatz im Rohbau und Innenausbau sowie für Wand- und Deckenbeplankung. Sie gehört zu der Kategorie Verlegeplatten und ist in Bezug auf Biegefestigkeit und Belastbarkeit deutlich überlegen gegenüber herkömmlichen Spanplatten. Die Platten sind ungeschliffen und haben stumpfe Kanten, was sie perfekt für den Einsatz im Bauwesen macht.</p><p class=\"justify\">Die OSB-3-Platte eignet sich besonders für Räume mit erhöhter Luftfeuchtigkeit. Sie sind wegen ihrer markanten und dekorativen Optik auch bei der Herstellung von Möbeln sehr beliebt. Die Emmissionsklasse dieser Platte beträgt E1 und sie erfüllt die EN-Norm P3. Mit einer Stärke von 22 mm ist diese Platte in verschiedenen Stärken erhältlich, sodass Sie die ideale Platte für Ihr Projekt auswählen können.</p><p class=\"justify\">In einer Palette erhalten Sie insgesamt 32 Platten mit einer Gesamtfläche von 100 m². Dieses qualitativ hochwertige Produkt hat bereits viele positive Bewertungen erhalten und wurde mit 5 Sternen bewertet. Es trägt die GTIN13-Nummer 4017442101888 und die SKU-Nummer 4341178, was Ihnen die Sicherheit gibt, ein authentisches und bewährtes Produkt zu erwerben.</p><p class=\"justify\">Ob für den Bau, Innenausbau oder Möbelbau – die OSB-3-Platte stumpf 22 mm x 250 cm x 125 cm (32 Platten - 100 m²) 1 Palette bietet Ihnen vielfältige Einsatzmöglichkeiten, um Ihr Projekt erfolgreich umzusetzen. Betrachten Sie die verschiedenen Anwendungsbereiche und wählen Sie die perfekte Lösung für Ihr Bauvorhaben. Die Qualität und Langlebigkeit dieser Platten werden Sie sicherlich überzeugen.</p>"
+            }
+          ]
         }
       }
     ]
   },
   "categorySeo": {
-    "defaultTitle": "$KATEGORIE: Bauh\u00f6lzer verschiedener Arten",
+    "defaultTitle": "$KATEGORIE: Bauhölzer verschiedener Arten",
     "defaultMetaDescription": "$KATEGORIE - Kaufen Sie Bauholz als Vollholz, Profilholz, OSB etc. aus verschiedenen Holzarten in mehreren Kategorien wie $KATEGORIE.",
     "defaultRobots": "index, follow",
     "categories": [
@@ -130,8 +163,8 @@
         "slug": "sporthosen",
         "name": "Sporthosen",
         "seo": {
-          "title": "Sporthosen g\u00fcnstig kaufen",
-          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "title": "Sporthosen günstig kaufen",
+          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
           "robots": "index, follow",
           "texts": [
             {
@@ -148,16 +181,16 @@
     ]
   },
   "brandSeo": {
-    "defaultTitle": "$HERSTELLER - Markenprodukte zum g\u00fcnstigen Preis",
-    "defaultMetaDescription": "$HERSTELLER ist ein renommierter Hersteller f\u00fcr Bauholzprodukte verschiedener Holzarten und -strukturen. Qualit\u00e4tsprodukte zum g\u00fcnstigen Preis. ",
+    "defaultTitle": "$HERSTELLER - Markenprodukte zum günstigen Preis",
+    "defaultMetaDescription": "$HERSTELLER ist ein renommierter Hersteller für Bauholzprodukte verschiedener Holzarten und -strukturen. Qualitätsprodukte zum günstigen Preis. ",
     "defaultRobots": "index, follow",
     "brands": [
       {
         "key": "palm",
         "name": "Palm",
         "seo": {
-          "title": "Produkte von Palm g\u00fcnstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "title": "Produkte von Palm günstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
           "robots": "index, follow"
         }
       }
